@@ -1,5 +1,7 @@
 # Task2_Navigate_Json
 
+This module helps to search through json file.
+
 ## Installation and usage
 
 Download repository and import module "navigate_json.py"
