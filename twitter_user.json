@@ -1,0 +1,569 @@
+{
+    "users": [
+        {
+            "id": 836408868355846145,
+            "id_str": "836408868355846145",
+            "name": "isra hirsi",
+            "screen_name": "israhirsi",
+            "location": "mpls + dc",
+            "description": "i try my best to go outside • 17 • tweets are my own + RT ≠ endorsement • she/her",
+            "url": "https://t.co/8pQXOJRDqi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8pQXOJRDqi",
+                            "expanded_url": "http://instagram.com/israhirsi",
+                            "display_url": "instagram.com/israhirsi",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 212649,
+            "friends_count": 432,
+            "listed_count": 454,
+            "created_at": "Tue Feb 28 02:53:08 +0000 2017",
+            "favourites_count": 9575,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4238,
+            "lang": null,
+            "status": {
+                "created_at": "Fri Feb 19 03:57:51 +0000 2021",
+                "id": 1362612334116675584,
+                "id_str": "1362612334116675584",
+                "text": "@TheSchlimazel @christoaivalis you can disagree with my political beliefs sure but don’t come to me with disagreeme… https://t.co/6Yb3Ap7QO6",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "TheSchlimazel",
+                            "name": "jake",
+                            "id": 1199244838211862531,
+                            "id_str": "1199244838211862531",
+                            "indices": [
+                                0,
+                                14
+                            ]
+                        },
+                        {
+                            "screen_name": "christoaivalis",
+                            "name": "Christo Aivalis 🌹🍊",
+                            "id": 487857297,
+                            "id_str": "487857297",
+                            "indices": [
+                                15,
+                                30
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/6Yb3Ap7QO6",
+                            "expanded_url": "https://twitter.com/i/web/status/1362612334116675584",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1362604529724850180,
+                "in_reply_to_status_id_str": "1362604529724850180",
+                "in_reply_to_user_id": 1199244838211862531,
+                "in_reply_to_user_id_str": "1199244838211862531",
+                "in_reply_to_screen_name": "TheSchlimazel",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 17,
+                "favorite_count": 3401,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1344714901655322631/K77VPnj1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344714901655322631/K77VPnj1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/836408868355846145/1601611297",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 25425604,
+            "id_str": "25425604",
+            "name": "Hilton Martinez",
+            "screen_name": "Hilton_Martinez",
+            "location": "Alexandria, VA",
+            "description": "I'm just livin' the dream",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": true,
+            "followers_count": 64,
+            "friends_count": 156,
+            "listed_count": 1,
+            "created_at": "Fri Mar 20 01:08:15 +0000 2009",
+            "favourites_count": 21,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 21,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000371332505/785675dde60321b6bf10c977e082548d_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000371332505/785675dde60321b6bf10c977e082548d_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25425604/1613749125",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 1082380458976051202,
+            "id_str": "1082380458976051202",
+            "name": "Rep. Lucy McBath",
+            "screen_name": "RepLucyMcBath",
+            "location": "",
+            "description": "Mother. Fighter. Congresswoman. #GA06\n\nIf you need help with a federal agency, please call my office at (470) 773-6330 or visit https://t.co/VZpvRFh35P.",
+            "url": "https://t.co/sKgHisq8rq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sKgHisq8rq",
+                            "expanded_url": "https://mcbath.house.gov/",
+                            "display_url": "mcbath.house.gov",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VZpvRFh35P",
+                            "expanded_url": "https://bit.ly/2MRyQKD",
+                            "display_url": "bit.ly/2MRyQKD",
+                            "indices": [
+                                128,
+                                151
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 48246,
+            "friends_count": 406,
+            "listed_count": 686,
+            "created_at": "Mon Jan 07 20:56:25 +0000 2019",
+            "favourites_count": 157,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1171,
+            "lang": null,
+            "status": {
+                "created_at": "Fri Feb 19 19:55:41 +0000 2021",
+                "id": 1362853381216337922,
+                "id_str": "1362853381216337922",
+                "text": "We remember Dominique Williams who, at only 15 years of age, had his life suddenly taken by a senseless act of gun… https://t.co/onnPstKr24",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/onnPstKr24",
+                            "expanded_url": "https://twitter.com/i/web/status/1362853381216337922",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": 1362853373846966275,
+                "in_reply_to_status_id_str": "1362853373846966275",
+                "in_reply_to_user_id": 1082380458976051202,
+                "in_reply_to_user_id_str": "1082380458976051202",
+                "in_reply_to_screen_name": "RepLucyMcBath",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 6,
+                "favorite_count": 30,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1096472053761392640/KGsi_PNA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096472053761392640/KGsi_PNA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082380458976051202/1552092528",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 438862536,
+            "id_str": "438862536",
+            "name": "genevieve hunt",
+            "screen_name": "greengoddess892",
+            "location": "Buzzards Bay Coast, MA",
+            "description": "ALM Sustainability Harvard.I think carefully about complex problems related to climate change engagement. Do what you are good at. Get help for everything else.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1642,
+            "friends_count": 2264,
+            "listed_count": 114,
+            "created_at": "Sat Dec 17 03:20:59 +0000 2011",
+            "favourites_count": 102933,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 63277,
+            "lang": null,
+            "status": {
+                "created_at": "Sat Feb 20 13:30:35 +0000 2021",
+                "id": 1363118856990953475,
+                "id_str": "1363118856990953475",
+                "text": "@marceelias @NormOrnstein They are certainly doubling down! This is the only way they can win.",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "marceelias",
+                            "name": "Marc E. Elias",
+                            "id": 23281108,
+                            "id_str": "23281108",
+                            "indices": [
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "screen_name": "NormOrnstein",
+                            "name": "Norman Ornstein",
+                            "id": 2223157392,
+                            "id_str": "2223157392",
+                            "indices": [
+                                12,
+                                25
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1362964385694691330,
+                "in_reply_to_status_id_str": "1362964385694691330",
+                "in_reply_to_user_id": 23281108,
+                "in_reply_to_user_id_str": "23281108",
+                "in_reply_to_screen_name": "marceelias",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1036692985314914305/vBsplrLX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036692985314914305/vBsplrLX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/438862536/1561267987",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 102444625,
+            "id_str": "102444625",
+            "name": "David S. Kemp",
+            "screen_name": "davidskemp",
+            "location": "San Francisco, CA",
+            "description": "Legal writing prof @BerkeleyLaw; managing editor @Oyez, @VerdictJustia; Oxford comma, asyndeton aficionado. Interests: info design, legal ed, tech, free law",
+            "url": "https://t.co/oCGAgZr0mx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oCGAgZr0mx",
+                            "expanded_url": "https://verdict.justia.com/",
+                            "display_url": "verdict.justia.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 844,
+            "friends_count": 762,
+            "listed_count": 30,
+            "created_at": "Wed Jan 06 18:35:56 +0000 2010",
+            "favourites_count": 730,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 928,
+            "lang": null,
+            "status": {
+                "created_at": "Sat Feb 20 06:19:21 +0000 2021",
+                "id": 1363010331509841921,
+                "id_str": "1363010331509841921",
+                "text": "RT @CharlesBinkley: .@davidskemp and I write that If churches want members back for in person services, they should  mandate COVID-19 vacci…",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "CharlesBinkley",
+                            "name": "Charles E. Binkley, MD",
+                            "id": 886925484,
+                            "id_str": "886925484",
+                            "indices": [
+                                3,
+                                18
+                            ]
+                        },
+                        {
+                            "screen_name": "davidskemp",
+                            "name": "David S. Kemp",
+                            "id": 102444625,
+                            "id_str": "102444625",
+                            "indices": [
+                                21,
+                                32
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweeted_status": {
+                    "created_at": "Fri Feb 19 21:06:04 +0000 2021",
+                    "id": 1362871095884275715,
+                    "id_str": "1362871095884275715",
+                    "text": ".@davidskemp and I write that If churches want members back for in person services, they should  mandate COVID-19 v… https://t.co/1z2HpWUuzX",
+                    "truncated": true,
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "user_mentions": [
+                            {
+                                "screen_name": "davidskemp",
+                                "name": "David S. Kemp",
+                                "id": 102444625,
+                                "id_str": "102444625",
+                                "indices": [
+                                    1,
+                                    12
+                                ]
+                            }
+                        ],
+                        "urls": [
+                            {
+                                "url": "https://t.co/1z2HpWUuzX",
+                                "expanded_url": "https://twitter.com/i/web/status/1362871095884275715",
+                                "display_url": "twitter.com/i/web/status/1…",
+                                "indices": [
+                                    117,
+                                    140
+                                ]
+                            }
+                        ]
+                    },
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "in_reply_to_screen_name": null,
+                    "geo": null,
+                    "coordinates": null,
+                    "place": null,
+                    "contributors": null,
+                    "is_quote_status": false,
+                    "retweet_count": 1,
+                    "favorite_count": 2,
+                    "favorited": false,
+                    "retweeted": false,
+                    "possibly_sensitive": false,
+                    "lang": "en"
+                },
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1159344070705074176/tYXJS7oC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159344070705074176/tYXJS7oC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102444625/1612633338",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        }
+    ],
+    "next_cursor": 1691406531969309927,
+    "next_cursor_str": "1691406531969309927",
+    "previous_cursor": 0,
+    "previous_cursor_str": "0",
+    "total_count": null
+}
